@@ -98,7 +98,5 @@ Radim Vaculík
 	  find "$CIL" -name "zlaoha_*.tar.gz" -mtime +7 -delete
 
   ## Přílohy
-  ![Bez názvu2](https://github.com/user-attachments/assets/19d4286c-8a87-43f0-881e-402f699456b2)
 ![Bez názvu2](https://github.com/user-attachments/assets/19d4286c-8a87-43f0-881e-402f699456b2)
-![Bez názvu1](https://github.com/user-attachments/assets/cd01d546-fd2c-4870-9bcc-3ab768959abd)
 ![Bez názvu1](https://github.com/user-attachments/assets/cd01d546-fd2c-4870-9bcc-3ab768959abd)
