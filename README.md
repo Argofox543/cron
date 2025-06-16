@@ -1,9 +1,3 @@
-![Uploading obrázek_2025-06-16_164035387.png…]()
-![Uploading obrázek_2025-06-16_164035387.png…]()
-![Uploading obrázek_2025-06-16_164035387.png…]()
-![Uploading obrázek_2025-06-16_164035387.png…]()
-![obrázek_2025-06-16_164027701](https://github.com/user-attachments/assets/9b4e990f-e3ad-445e-865d-017d7896288c)
-![obrázek_2025-06-16_164027701](https://github.com/user-attachments/assets/9b4e990f-e3ad-445e-865d-017d7896288c)
 # Plánování úloh v cronu
 Obchodní akademie, Vyšší odborná škola a Jazyková škola s právem státní jazykové zkoušky Uherské Hradiště
 
@@ -102,3 +96,9 @@ Radim Vaculík
 - Bonus: pokud máme zálohy starší než 7 dní tak je můžeme smazat
 
 	  find "$CIL" -name "zlaoha_*.tar.gz" -mtime +7 -delete
+
+  ## Přílohy
+  ![Bez názvu2](https://github.com/user-attachments/assets/19d4286c-8a87-43f0-881e-402f699456b2)
+![Bez názvu2](https://github.com/user-attachments/assets/19d4286c-8a87-43f0-881e-402f699456b2)
+![Bez názvu1](https://github.com/user-attachments/assets/cd01d546-fd2c-4870-9bcc-3ab768959abd)
+![Bez názvu1](https://github.com/user-attachments/assets/cd01d546-fd2c-4870-9bcc-3ab768959abd)
