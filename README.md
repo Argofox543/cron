@@ -2,6 +2,7 @@
 Obchodní akademie, Vyšší odborná škola a Jazyková škola s právem státní jazykové zkoušky Uherské Hradiště
 
 Radim Vaculík
+
 15.05.2025
 ## Co je to cron?
 -   Jedná se o systémového démona, který se v Linuxových a Unixových systémech stará o automatické spouštění naplánovaných úloh​
