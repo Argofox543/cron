@@ -1,3 +1,9 @@
+![Uploading obrázek_2025-06-16_164035387.png…]()
+![Uploading obrázek_2025-06-16_164035387.png…]()
+![Uploading obrázek_2025-06-16_164035387.png…]()
+![Uploading obrázek_2025-06-16_164035387.png…]()
+![obrázek_2025-06-16_164027701](https://github.com/user-attachments/assets/9b4e990f-e3ad-445e-865d-017d7896288c)
+![obrázek_2025-06-16_164027701](https://github.com/user-attachments/assets/9b4e990f-e3ad-445e-865d-017d7896288c)
 # Plánování úloh v cronu
 Obchodní akademie, Vyšší odborná škola a Jazyková škola s právem státní jazykové zkoušky Uherské Hradiště
 
