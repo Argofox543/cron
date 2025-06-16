@@ -97,6 +97,12 @@ Radim Vaculík
 - Bonus: pokud máme zálohy starší než 7 dní tak je můžeme smazat
 
 	  find "$CIL" -name "zlaoha_*.tar.gz" -mtime +7 -delete
+## Zdroje
+
+Cronitor. Online. Dostupné z: https://crontab.guru. [citováno 2025-06-15]
+Váš Hosting. Online. Dostupné z: https://www.vas-hosting.cz/napoveda/jak-nastavit-cron. [citováno 2025-06-15]
+Webglobe. Online. Dostupné z: https://www.webglobe.cz/poradna/co-je-cron. [citováno 2025-06-15] 
+
 
   ## Přílohy
 ![Bez názvu1](https://github.com/user-attachments/assets/cd01d546-fd2c-4870-9bcc-3ab768959abd)
