@@ -57,7 +57,7 @@ Autor: Radim Vaculík
  
  -   Vytvoříme jednoduchý skriptový soubor např. "Hello.sh" a do něj vložíme následující příkaz:​  
     
-    echo "Skript byl aktivován $(date)" > /home/uzivatel/hello.txt​
+    		echo "Skript byl aktivován $(date)" > /home/uzivatel/hello.txt​
     
 -   Nesmíme zapomenou na to aby byl soubor spustitelný:​ 
 
