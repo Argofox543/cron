@@ -96,7 +96,7 @@ Autor: Radim Vaculík
 - spouštění každou hodinu
 - Bonus: pokud máme zálohy starší než 7 dní tak je můžeme smazat
 
-	  find "$CIL" -name "zlaoha_*.tar.gz" -mtime +7 -delete
+	  find "$CIL" -name "zaloha_*.tar.gz" -mtime +7 -delete
 ## Zdroje
 
 Cronitor. Online. Dostupné z: https://crontab.guru. [citováno 2025-06-15]
