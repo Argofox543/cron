@@ -79,7 +79,7 @@ Autor: Radim Vaculík
 -   V proměnné **DATUM** bude datum ve formátu:​
 		
 		Datum=$(date +%Y-%m-%d_%H-%M)  
-	    (rok, měsíc, den, hodina a minuta)​
+	    (aktuální: rok, měsíc, den, hodina a minuta)​
 - V proměnné ZALOHA bude cesta k výslednému souboru 
 
 	  ZALOHA="$CIL/zaloha_$DATUM.tar.gz"
