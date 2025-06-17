@@ -100,7 +100,9 @@ Autor: Radim Vaculík
 ## Zdroje
 
 Cronitor. Online. Dostupné z: https://crontab.guru. [citováno 2025-06-15]
+
 Váš Hosting. Online. Dostupné z: https://www.vas-hosting.cz/napoveda/jak-nastavit-cron. [citováno 2025-06-15]
+
 Webglobe. Online. Dostupné z: https://www.webglobe.cz/poradna/co-je-cron. [citováno 2025-06-15] 
 
 
